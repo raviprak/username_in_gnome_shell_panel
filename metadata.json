@@ -1,0 +1,14 @@
+{
+  "description": "Add only user name in top panel.",
+  "name": "Only username in top panel",
+  "original-authors": [
+    "fthx",
+    "raviprak"
+  ],
+  "shell-version": [
+    "44"
+  ],
+  "url": "https://www.github.com/raviprak/username_in_gnome_shell_panel",
+  "uuid": "username_in_gnome_shell_panel@raviprak",
+  "version": 1
+}
