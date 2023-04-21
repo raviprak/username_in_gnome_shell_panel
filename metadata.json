@@ -1,5 +1,5 @@
 {
-  "description": "Add only user name in top panel.",
+  "description": "Add only user name in top panel. This is a fork of https://extensions.gnome.org/extension/2633/user-id-in-top-panel/",
   "name": "Only username in top panel",
   "original-authors": [
     "fthx",
@@ -9,6 +9,6 @@
     "44"
   ],
   "url": "https://www.github.com/raviprak/username_in_gnome_shell_panel",
-  "uuid": "username_in_gnome_shell_panel@raviprak",
-  "version": 1
+  "uuid": "username_in_shell_panel@raviprak",
+  "version": 2
 }
